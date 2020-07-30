@@ -1,0 +1,12 @@
+#Esse arquivo serve apenas para poder gerar o report pelo allure sem ter que 
+#passar os parametros na hora da execução
+#Caso deseje remover esse arquivo --format AllureCucumber::CucumberFormatter --out where/you-want-results
+# https://github.com/allure-framework/allure-ruby/blob/master/allure-cucumber/README.md
+
+default: -p reports -p sit 
+
+reports: --format pretty --format AllureCucumber::CucumberFormatter --out allure-report
+
+sit: AMBIENTE=sit
+
+dev: AMBIENTE=dev

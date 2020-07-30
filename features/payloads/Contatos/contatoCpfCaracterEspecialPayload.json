@@ -1,0 +1,20 @@
+{
+  "dadosContato": 
+  {
+  	 "cpf": "!#$%¨&*()-+=",
+     "nomeCompleto": "Osvaldo Isabelle Stefany Vieira",
+     "email": "osvaldokaiquemarioporto-80@tirantea.com.br",
+     "celular": 
+    	{
+        "ddd": "21",
+        "numero": "981234567"		
+		  },
+   "preferencias": 
+    {
+      "receberOfertasPorEmail": true,
+      "receberOfertasPorSms": true,
+      "publicidadeNaFaturaCartao": true
+    }
+  }
+}
+ 

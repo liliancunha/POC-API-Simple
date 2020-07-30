@@ -1,0 +1,20 @@
+{
+  "dadosContato": 
+  {
+  	 "cpf": "%20",
+     "nomeCompleto": "%20",
+     "email": "%20",
+     "celular": 
+    	{
+          "ddd": "%20",
+          "numero": "%20"		
+		  },
+   "preferencias": 
+    {
+      "receberOfertasPorEmail": null,
+      "receberOfertasPorSms": null,
+      "publicidadeNaFaturaCartao": null 
+    }
+  }
+}
+ 

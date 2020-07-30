@@ -1,0 +1,20 @@
+{
+  "dadosContato": 
+  {
+      "cpf": "52272160450",
+      "nomeCompleto": "Güáilherme Severínó Gioçannú",
+      "email": "mariohenriquegoncalves..mariohenriquegoncalves@tintasvalecores.com.br",
+      "celular": 
+      {
+          "ddd": "21",
+          "numero": "981234567"		
+      },
+    "preferencias": 
+    {
+      "receberOfertasPorEmail": true,
+      "receberOfertasPorSms": true,
+      "publicidadeNaFaturaCartao": true
+    }
+  }
+}
+ 
